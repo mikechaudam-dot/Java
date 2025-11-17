@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Ordenar3Numeros {
 
 	public static void main(String[] args) {
-<<<<<<< HEAD
+		
 		Scanner scan = new Scanner(System.in);
 		int num1, num2, num3;
 
@@ -33,12 +33,6 @@ public class Ordenar3Numeros {
 			System.out.print("Informacion no valida");
 		}
 		scan.close();
-=======
-		Scanner scan = new Scanner (System.in);
-		
-		System 
-
->>>>>>> 438efe0dde170151d9683f951d7ff2dacc7d7754
 	}
 
 }
